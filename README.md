@@ -5,9 +5,11 @@ Framed a report after analyzing the available data to see the most famous venue 
 
 Link of the used data : https://drive.google.com/file/d/0BwrgZ-IdrTotZ0U0ZER2ejI3VVk/view
 
-Language used         : Python
+Language used          : Python
 
-Modules used          : Numpy, Pandas, datetime 
+Modules used           : Numpy, Pandas, datetime 
+
+Data Visualization Tool: Tableau
 
 REFERENCES:
 @article{yang2015nationtelescope,
