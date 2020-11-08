@@ -1,8 +1,12 @@
 # DataAnalysis1
 Applied data modelling concepts on a given .tsv 2GB+ data. 
+
 Framed a report after analyzing the available data to see the most famous venue and venue-category of the world in the given timeline of the data collected. 
+
 Link of the used data : https://drive.google.com/file/d/0BwrgZ-IdrTotZ0U0ZER2ejI3VVk/view
+
 Language used         : Python
+
 Modules used          : Numpy, Pandas, datetime 
 
 REFERENCES:
